@@ -1,0 +1,212 @@
+[
+    {
+        "SZALLAS_ID": 1,
+        "SZALLAS_NEV": "Sába-Ház",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-02-28",
+        "CIM": "8630 Balatonboglár, Radnóti Miklós utca 8"
+    },
+    {
+        "SZALLAS_ID": 2,
+        "SZALLAS_NEV": "Családi Ház",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-02",
+        "CIM": "8630 Balatonboglár, József Attila utca 25"
+    },
+    {
+        "SZALLAS_ID": 3,
+        "SZALLAS_NEV": "Fortuna Apartman",
+        "HELY": "Hajdúbihar megye",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "Apartman",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-03-06",
+        "CIM": "4200 Hajdúszoboszló, Wesselényi utca 56."
+    },
+    {
+        "SZALLAS_ID": 4,
+        "SZALLAS_NEV": "Fortuna panzió",
+        "HELY": "Budapest",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "panzió",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-07",
+        "CIM": "1019 Budapest XIV. Cinkotai út 86."
+    },
+    {
+        "SZALLAS_ID": 5,
+        "SZALLAS_NEV": "Fortuna Panzió",
+        "HELY": "Békés megye",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "panzió",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-03-08",
+        "CIM": "5900 Orosháza, Gyopárosfürdő Tópart utca 3."
+    },
+    {
+        "SZALLAS_ID": 6,
+        "SZALLAS_NEV": "Kentaur Hotel",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-08",
+        "CIM": "8600 Siófok (Széplak), Akácfa utca 1"
+    },
+    {
+        "SZALLAS_ID": 7,
+        "SZALLAS_NEV": "Szieszta Apartmanház",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "Apartman",
+        "ROGZITETTE": "Mari",
+        "ROGZ_IDO": "2016-03-11",
+        "CIM": "8630 Balatonboglár, Dózsa György utca 108"
+    },
+    {
+        "SZALLAS_ID": 8,
+        "SZALLAS_NEV": "Hotel Három Hattyú",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 4,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-13",
+        "CIM": "8623 Balatonföldvár, Rákóczi Ferenc út 45."
+    },
+    {
+        "SZALLAS_ID": 9,
+        "SZALLAS_NEV": "Jáde panzió",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "panzió",
+        "ROGZITETTE": "Mari",
+        "ROGZ_IDO": "2016-03-16",
+        "CIM": "8624 Balatonföldvár, Kiss u.2."
+    },
+    {
+        "SZALLAS_ID": 10,
+        "SZALLAS_NEV": "Lagúna Hotel",
+        "HELY": "Budapest",
+        "CSILLAGOK_SZAMA": 4,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-03-20",
+        "CIM": "1097 Budapest, Albert Flórián út 3"
+    },
+    {
+        "SZALLAS_ID": 11,
+        "SZALLAS_NEV": "Partiszél Vendégház",
+        "HELY": "Balaton-észak",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-22",
+        "CIM": "8220 Balatonalmádi Neptun u. 23."
+    },
+    {
+        "SZALLAS_ID": 12,
+        "SZALLAS_NEV": "Gold Hotel",
+        "HELY": "Budapest",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-24",
+        "CIM": "1016 Budapest, Hegyalja út 12"
+    },
+    {
+        "SZALLAS_ID": 13,
+        "SZALLAS_NEV": "Riviéra Panzió",
+        "HELY": "Csongrád megye",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "panzió",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-03-27",
+        "CIM": "6722 Szeged, Petőfi Sándor út 3."
+    },
+    {
+        "SZALLAS_ID": 14,
+        "SZALLAS_NEV": "Nyárfás Vendégház",
+        "HELY": "Csongrád megye",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-27",
+        "CIM": "6723 Szeged, Nagy u. 12."
+    },
+    {
+        "SZALLAS_ID": 15,
+        "SZALLAS_NEV": "Tímárház Panzió",
+        "HELY": "Balaton-dél",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "panzió",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-03-29",
+        "CIM": "8600 Siófok, Virág utca 1"
+    },
+    {
+        "SZALLAS_ID": 16,
+        "SZALLAS_NEV": "Bagoly Hotel",
+        "HELY": "Pest megye",
+        "CSILLAGOK_SZAMA": 3,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Mari",
+        "ROGZ_IDO": "2016-04-01",
+        "CIM": "2230 Gyömrő, Bergszász u. 5."
+    },
+    {
+        "SZALLAS_ID": 17,
+        "SZALLAS_NEV": "Szarvas Hotel",
+        "HELY": "Tolna megye",
+        "CSILLAGOK_SZAMA": 4,
+        "TIPUS": "Hotel",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-04-04",
+        "CIM": "7121 Szálka, Petőfi Sándor u."
+    },
+    {
+        "SZALLAS_ID": 18,
+        "SZALLAS_NEV": "Fortuna Apartman",
+        "HELY": "Dél-Somogy",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "Apartman",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-04-07",
+        "CIM": "7570 Barcs, Kossuth u. 13."
+    },
+    {
+        "SZALLAS_ID": 19,
+        "SZALLAS_NEV": "Nyárfás Vendégház",
+        "HELY": "Dél-Somogy",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-04-07",
+        "CIM": "7570 Barcs, Bajcsy-Zs. u. 53"
+    },
+    {
+        "SZALLAS_ID": 20,
+        "SZALLAS_NEV": "Kollégium",
+        "HELY": "Budapest",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "Diákszálló",
+        "ROGZITETTE": "Sára",
+        "ROGZ_IDO": "2016-04-07",
+        "CIM": "1146 Budapest, Ajtósi Dürer sor 23."
+    },
+    {
+        "SZALLAS_ID": 21,
+        "SZALLAS_NEV": "Müller Vendégház",
+        "HELY": "Dél-Somogy",
+        "CSILLAGOK_SZAMA": 0,
+        "TIPUS": "vendégház",
+        "ROGZITETTE": "Béla",
+        "ROGZ_IDO": "2016-04-07",
+        "CIM": "7570 Barcs, Magyar u. 10."
+    }
+]
