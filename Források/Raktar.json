@@ -1,0 +1,47 @@
+[
+    {
+        "RAKTAR_KOD": 1,
+        "RAKTAR_NEV": "Kisfaludy",
+        "RAKTAR_CIM": "2135 Csörög Kisfaludy u. 55."
+    },
+    {
+        "RAKTAR_KOD": 2,
+        "RAKTAR_NEV": "Nagyszeben",
+        "RAKTAR_CIM": "1182 Budapest Nagyszeben u. 12."
+    },
+    {
+        "RAKTAR_KOD": 3,
+        "RAKTAR_NEV": "Toldy",
+        "RAKTAR_CIM": "1015 Budapest Toldy F. u. 58."
+    },
+    {
+        "RAKTAR_KOD": 4,
+        "RAKTAR_NEV": "KIS",
+        "RAKTAR_CIM": "1039 Budapest Madzsar J. u. 23."
+    },
+    {
+        "RAKTAR_KOD": 5,
+        "RAKTAR_NEV": "NAGY",
+        "RAKTAR_CIM": "2089 Telki Nefelejcs u. 27"
+    },
+    {
+        "RAKTAR_KOD": 6,
+        "RAKTAR_NEV": "Veresegyházi",
+        "RAKTAR_CIM": "2112 Veresegyház Új iskola u. 10."
+    },
+    {
+        "RAKTAR_KOD": 7,
+        "RAKTAR_NEV": "Báthory",
+        "RAKTAR_CIM": "1152 Budapest Báthory u. 2."
+    },
+    {
+        "RAKTAR_KOD": 8,
+        "RAKTAR_NEV": "Havanna",
+        "RAKTAR_CIM": "1181 Budapest Havanna u. 3"
+    },
+    {
+        "RAKTAR_KOD": 9,
+        "RAKTAR_NEV": "Lapos",
+        "RAKTAR_CIM": "1016 Budapest Krisztina krt. 87-89."
+    }
+]
