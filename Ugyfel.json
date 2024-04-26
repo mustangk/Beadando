@@ -1,0 +1,1602 @@
+[
+    {
+        "LOGIN": "adam1",
+        "EMAIL": "ádám.kiss@mail.hu",
+        "NEV": "Kiss Ádám",
+        "SZULEV": 1991,
+        "NEM": "F",
+        "CIM": "5630 Békés, Szolnoki út 8."
+    },
+    {
+        "LOGIN": "adam3",
+        "EMAIL": "adam3@gmail.com",
+        "NEV": "Barkóci Ádám",
+        "SZULEV": 1970,
+        "NEM": "F",
+        "CIM": "3910 Tokaj, Dózsa György utca 37."
+    },
+    {
+        "LOGIN": "adam4",
+        "EMAIL": "ádám.bieniek@mail.hu",
+        "NEV": "Bieniek Ádám",
+        "SZULEV": 1976,
+        "NEM": "F",
+        "CIM": "8630 Balatonboglár, Juhászföldi út 1."
+    },
+    {
+        "LOGIN": "agnes",
+        "EMAIL": "agnes@gmail.com",
+        "NEV": "Lengyel Ágnes",
+        "SZULEV": 1979,
+        "NEM": "N",
+        "CIM": "5200 Törökszentmiklós, Deák Ferenc út 5."
+    },
+    {
+        "LOGIN": "agnes3",
+        "EMAIL": "agnes3@gmail.com",
+        "NEV": "Hartyánszky Ágnes",
+        "SZULEV": 1967,
+        "NEM": "N",
+        "CIM": "6430 Bácsalmás, Posta köz 2."
+    },
+    {
+        "LOGIN": "AGNESH",
+        "EMAIL": "AGNESH@gmail.com",
+        "NEV": "Horváth Ágnes",
+        "SZULEV": 1981,
+        "NEM": "N",
+        "CIM": "8200 Veszprém, Rákóczi utca 21."
+    },
+    {
+        "LOGIN": "AGNESK",
+        "EMAIL": "AGNESK@gmail.com",
+        "NEV": "Kovács Ágnes",
+        "SZULEV": 1988,
+        "NEM": "N",
+        "CIM": "1084 Budapest, Endrődi Sándor utca 47."
+    },
+    {
+        "LOGIN": "akos",
+        "EMAIL": "ákos.bíró@mail.hu",
+        "NEV": "Bíró Ákos",
+        "SZULEV": 1982,
+        "NEM": "F",
+        "CIM": "9023 Győr, Kossuth Lajos utca 47\/b."
+    },
+    {
+        "LOGIN": "aladar",
+        "EMAIL": "aladár.dunai@mail.hu",
+        "NEV": "Dunai Aladár",
+        "SZULEV": 1980,
+        "NEM": "F",
+        "CIM": "5931 Nagyszénás, Árpád utca 23."
+    },
+    {
+        "LOGIN": "alexandra",
+        "EMAIL": "alexandra.bagóczki@mail.hu",
+        "NEV": "Bagóczki Alexandra",
+        "SZULEV": 1992,
+        "NEM": "N",
+        "CIM": "2381 Táborfalva, Petőfi utca 1\/2."
+    },
+    {
+        "LOGIN": "alexis",
+        "EMAIL": "alexbiro@gmail.com",
+        "NEV": "Biró Alexander",
+        "SZULEV": 2000,
+        "NEM": "F",
+        "CIM": "6914 Pitvaros, Deák F. u. 38."
+    },
+    {
+        "LOGIN": "andi",
+        "EMAIL": "andrea.maródi@mail.hu",
+        "NEV": "Maródi Andrea",
+        "SZULEV": 1968,
+        "NEM": "N",
+        "CIM": "5465 Cserkeszőlő, Árpád utca 4."
+    },
+    {
+        "LOGIN": "andras2",
+        "EMAIL": "andrás.tóth@mail.hu",
+        "NEV": "Tóth András",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "4071 Egyek, Petőfi utca 30."
+    },
+    {
+        "LOGIN": "andras21",
+        "EMAIL": "andrás.molnár@mail.hu",
+        "NEV": "Molnár András",
+        "SZULEV": 1977,
+        "NEM": "F",
+        "CIM": "7900 Szigetvár, Rákóczi utca 67."
+    },
+    {
+        "LOGIN": "andras3",
+        "EMAIL": "andrás.vígh@mail.hu",
+        "NEV": "Vígh András",
+        "SZULEV": 1971,
+        "NEM": "F",
+        "CIM": "1118 Budapest, Arany János utca 1."
+    },
+    {
+        "LOGIN": "andras4",
+        "EMAIL": "andras4@gmail.com",
+        "NEV": "Back András",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "3783 Edelény, Fő út 169."
+    },
+    {
+        "LOGIN": "andras41",
+        "EMAIL": "andras41@gmail.com",
+        "NEV": "Komjáti András",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "5065 Nagykörű, Kossuth út 24."
+    },
+    {
+        "LOGIN": "ANDRASE",
+        "EMAIL": "ANDRASE@gmail.com",
+        "NEV": "Erdei András",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "5071 Besenyszög, Szolnoki út 8."
+    },
+    {
+        "LOGIN": "ANDRASN",
+        "EMAIL": "andrás.nagy@mail.hu",
+        "NEV": "Nagy András",
+        "SZULEV": 1980,
+        "NEM": "F",
+        "CIM": "6500 Baja, Fő út 169."
+    },
+    {
+        "LOGIN": "andrea",
+        "EMAIL": "andrea.kiss@mail.hu",
+        "NEV": "Kiss Andrea",
+        "SZULEV": 1993,
+        "NEM": "N",
+        "CIM": "1113 Budapest, Petőfi Sándor utca 87."
+    },
+    {
+        "LOGIN": "andrea3",
+        "EMAIL": "andrea3@gmail.com",
+        "NEV": "Szomor Andrea",
+        "SZULEV": 1996,
+        "NEM": "N",
+        "CIM": "7960 Sellye, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "andrea4",
+        "EMAIL": "andrea4@gmail.com",
+        "NEV": "Neizer Andrea",
+        "SZULEV": 1981,
+        "NEM": "N",
+        "CIM": "1124 Budapest, Kiss u. 8."
+    },
+    {
+        "LOGIN": "ANDREAT",
+        "EMAIL": "ANDREAT@gmail.com",
+        "NEV": "Tornyos Andrea",
+        "SZULEV": 1986,
+        "NEM": "N",
+        "CIM": "6131 Szank, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "anett3",
+        "EMAIL": "anett.pivarcsi@mail.hu",
+        "NEV": "Pivarcsi Anett",
+        "SZULEV": 1967,
+        "NEM": "N",
+        "CIM": "1149 Budapest, Fő út 60."
+    },
+    {
+        "LOGIN": "aniko",
+        "EMAIL": "aniko@gmail.com",
+        "NEV": "Tóth Anikó",
+        "SZULEV": 1973,
+        "NEM": "N",
+        "CIM": "2085 Pilisvörösvár, Deák Ferenc út 5."
+    },
+    {
+        "LOGIN": "aniko4",
+        "EMAIL": "aniko4@gmail.com",
+        "NEV": "Böröcz Anikó",
+        "SZULEV": 1978,
+        "NEM": "N",
+        "CIM": "2484 Agárd, Petőfi Sándor tér 1."
+    },
+    {
+        "LOGIN": "ANIKOS",
+        "EMAIL": "ANIKOS@gmail.com",
+        "NEV": "Simon Anikó",
+        "SZULEV": 1988,
+        "NEM": "N",
+        "CIM": "5137 Jászkisér, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "anita",
+        "EMAIL": "anita.hamvay-kovács@mail.hu",
+        "NEV": "Hamvay-Kovács Anita",
+        "SZULEV": 1971,
+        "NEM": "N",
+        "CIM": "7220 Sarkad, Táncsics utca 19."
+    },
+    {
+        "LOGIN": "annamaria1",
+        "EMAIL": "annamária.szűcs@mail.hu",
+        "NEV": "Szűcs Annamária",
+        "SZULEV": 1990,
+        "NEM": "N",
+        "CIM": "1191 Budapest, Rendeki utca 21."
+    },
+    {
+        "LOGIN": "ANNAMARIAR",
+        "EMAIL": "ANNAMARIAR@gmail.com",
+        "NEV": "Regős Annamária",
+        "SZULEV": 1977,
+        "NEM": "N",
+        "CIM": "8283 Káptalantóti, Petőfi Sándor tér 1."
+    },
+    {
+        "LOGIN": "aron2",
+        "EMAIL": "aron2@gmail.com",
+        "NEV": "Jakab Áron",
+        "SZULEV": 1971,
+        "NEM": "F",
+        "CIM": "7133 Fadd, Bajcsy-Zsilinszky utca 4."
+    },
+    {
+        "LOGIN": "ARONK",
+        "EMAIL": "áron.kelemen@mail.hu",
+        "NEV": "Kelemen Áron",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "8200 Veszprém, Petőfi utca 8."
+    },
+    {
+        "LOGIN": "arpad2",
+        "EMAIL": "árpád.ötvös@mail.hu",
+        "NEV": "Ötvös Árpád",
+        "SZULEV": 1990,
+        "NEM": "F",
+        "CIM": "2600 Vác, Padragi út 158."
+    },
+    {
+        "LOGIN": "ARPADH",
+        "EMAIL": "árpád.horváth@mail.hu",
+        "NEV": "Horváth Árpád",
+        "SZULEV": 1990,
+        "NEM": "F",
+        "CIM": "7349 Szászvár, Dózsa György u. 1."
+    },
+    {
+        "LOGIN": "ARPADM",
+        "EMAIL": "árpád.móricz@mail.hu",
+        "NEV": "Móricz Árpád",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "3910 Tokaj, Rákóczi utca 67."
+    },
+    {
+        "LOGIN": "attila",
+        "EMAIL": "attila@gmail.com",
+        "NEV": "Csóti Attila",
+        "SZULEV": 1979,
+        "NEM": "F",
+        "CIM": "3000 Hatvan, Bajcsy-Zsilinszky utca 4."
+    },
+    {
+        "LOGIN": "attila1",
+        "EMAIL": "attila.gulyás@mail.hu",
+        "NEV": "Gulyás Attila",
+        "SZULEV": 1982,
+        "NEM": "F",
+        "CIM": "3881 Abaújszántó, Szolnoki út 8."
+    },
+    {
+        "LOGIN": "attila4",
+        "EMAIL": "attila.baróti@mail.hu",
+        "NEV": "Baróti Attila",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "7149 Báta, Arany János utca 3."
+    },
+    {
+        "LOGIN": "ATTILAO",
+        "EMAIL": "ATTILAO@gmail.com",
+        "NEV": "Opra Attila",
+        "SZULEV": 1995,
+        "NEM": "F",
+        "CIM": "8283 Káptalantóti, Rákóczi út 200."
+    },
+    {
+        "LOGIN": "balazs1",
+        "EMAIL": "balázs.bozsik@mail.hu",
+        "NEV": "Bozsik Balázs",
+        "SZULEV": 1992,
+        "NEM": "F",
+        "CIM": "2300 Ráckeve, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "balazs2",
+        "EMAIL": "balázs.szűcs@mail.hu",
+        "NEV": "Szűcs Balázs",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "3170 Szécsény, Szabadság utca 95."
+    },
+    {
+        "LOGIN": "balazs3",
+        "EMAIL": "balazs3@gmail.com",
+        "NEV": "Bakódy Balázs",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "2131 Göd, Arany János utca 1."
+    },
+    {
+        "LOGIN": "balint",
+        "EMAIL": "balint@gmail.com",
+        "NEV": "Horváth Bálint",
+        "SZULEV": 1996,
+        "NEM": "F",
+        "CIM": "6646 Tömörkény, Endrődi Sándor utca 47."
+    },
+    {
+        "LOGIN": "balint1",
+        "EMAIL": "balint1@gmail.com",
+        "NEV": "Molnár Bálint",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "9181 Kimle, Fő út 169."
+    },
+    {
+        "LOGIN": "balint2",
+        "EMAIL": "balint2@gmail.com",
+        "NEV": "Vukasinovity Bálint",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "2330 Dunaharaszti, Béke utca 7."
+    },
+    {
+        "LOGIN": "balu",
+        "EMAIL": "bálint.endresz@mail.hu",
+        "NEV": "Endresz Bálint",
+        "SZULEV": 1976,
+        "NEM": "F",
+        "CIM": "3973 Cigánd, Fő út 169."
+    },
+    {
+        "LOGIN": "beata4",
+        "EMAIL": "beáta.bagi@mail.hu",
+        "NEV": "Bagi Beáta",
+        "SZULEV": 1994,
+        "NEM": "N",
+        "CIM": "8477 Tüskevár, Felszabadulás utca 32."
+    },
+    {
+        "LOGIN": "BEATRIXK",
+        "EMAIL": "beatrix.kerényi@mail.hu",
+        "NEV": "Kerényi Beatrix",
+        "SZULEV": 1972,
+        "NEM": "N",
+        "CIM": "7396 Magyarszék, Kossuth Lajos utca 47\/b."
+    },
+    {
+        "LOGIN": "BEATRIXS",
+        "EMAIL": "beatrix.szekendi@mail.hu",
+        "NEV": "Szekendi Beatrix",
+        "SZULEV": 1981,
+        "NEM": "N",
+        "CIM": "4060 Balmazújváros, Jászai tér 21."
+    },
+    {
+        "LOGIN": "BELAF",
+        "EMAIL": "BELAF@gmail.com",
+        "NEV": "Farkas Béla",
+        "SZULEV": 1995,
+        "NEM": "F",
+        "CIM": "5530 Vésztő, Petőfi Sándor utca 3."
+    },
+    {
+        "LOGIN": "bence",
+        "EMAIL": "bence@gmail.com",
+        "NEV": "Győrffy Bence",
+        "SZULEV": 1987,
+        "NEM": "F",
+        "CIM": "6900 Makó, Árpád utca 23."
+    },
+    {
+        "LOGIN": "BENCEB",
+        "EMAIL": "bence.bajusz@mail.hu",
+        "NEV": "Bajusz Bence",
+        "SZULEV": 1973,
+        "NEM": "F",
+        "CIM": "8391 Sármellék, Fő utca 56."
+    },
+    {
+        "LOGIN": "bernadett1",
+        "EMAIL": "bernadett1@gmail.com",
+        "NEV": "Simon Bernadett",
+        "SZULEV": 1984,
+        "NEM": "N",
+        "CIM": "2300 Ráckeve, Fő utca 108."
+    },
+    {
+        "LOGIN": "bernadett2",
+        "EMAIL": "bernadett.kovács@mail.hu",
+        "NEV": "Kovács Bernadett",
+        "SZULEV": 1996,
+        "NEM": "N",
+        "CIM": "4200 Hajdúszoboszló, Fő út 122."
+    },
+    {
+        "LOGIN": "BERNADETTO",
+        "EMAIL": "bernadett.orbán@mail.hu",
+        "NEV": "Orbán Bernadett",
+        "SZULEV": 1987,
+        "NEM": "N",
+        "CIM": "5085 Rákóczifalva, Arany János utca 1."
+    },
+    {
+        "LOGIN": "bertalan",
+        "EMAIL": "bertalan@gmail.com",
+        "NEV": "Csiger Bertalan",
+        "SZULEV": 1977,
+        "NEM": "F",
+        "CIM": "1192 Budapest, Fő út 169."
+    },
+    {
+        "LOGIN": "brigitta",
+        "EMAIL": "brigitta.székely@mail.hu",
+        "NEV": "Székely Brigitta",
+        "SZULEV": 1978,
+        "NEM": "N",
+        "CIM": "2462 Martonvásár, Fő utca 47."
+    },
+    {
+        "LOGIN": "brigitta3",
+        "EMAIL": "brigitta.pataki@mail.hu",
+        "NEV": "Pataki Brigitta",
+        "SZULEV": 1991,
+        "NEM": "N",
+        "CIM": "2730 Albertirsa, Rendeki utca 21."
+    },
+    {
+        "LOGIN": "csongor3",
+        "EMAIL": "csongor.nagymihály@mail.hu",
+        "NEV": "Nagymihály Csongor",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "9181 Kimle, Deák Ferenc út 5."
+    },
+    {
+        "LOGIN": "dani",
+        "EMAIL": "daniel@gmail.com",
+        "NEV": "Vörös Dániel",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "7150 Bonyhád, Dózsa György u. 1."
+    },
+    {
+        "LOGIN": "daniel",
+        "EMAIL": "dániel.rácz@mail.hu",
+        "NEV": "Rácz Dániel",
+        "SZULEV": 1978,
+        "NEM": "F",
+        "CIM": "9181 Kimle, Szabadság tér 9."
+    },
+    {
+        "LOGIN": "daniel1",
+        "EMAIL": "dániel.keszler@mail.hu",
+        "NEV": "Keszler Dániel",
+        "SZULEV": 1969,
+        "NEM": "F",
+        "CIM": "3580 Tiszaújváros, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "david",
+        "EMAIL": "david@gmail.com",
+        "NEV": "Ambrus Dávid",
+        "SZULEV": 1974,
+        "NEM": "F",
+        "CIM": "1149 Budapest, Fő út 18."
+    },
+    {
+        "LOGIN": "david1",
+        "EMAIL": "david1@gmail.com",
+        "NEV": "Sobják Dávid",
+        "SZULEV": 1970,
+        "NEM": "F",
+        "CIM": "5083 Kengyel, Arany János utca 3."
+    },
+    {
+        "LOGIN": "david4",
+        "EMAIL": "david4@gmail.com",
+        "NEV": "Berta Dávid",
+        "SZULEV": 1990,
+        "NEM": "F",
+        "CIM": "3500 Miskolc, Balatoni út 12."
+    },
+    {
+        "LOGIN": "debora",
+        "EMAIL": "debóra.barna@mail.hu",
+        "NEV": "Barna Debóra",
+        "SZULEV": 1976,
+        "NEM": "N",
+        "CIM": "1155 Budapest, Fő út 169."
+    },
+    {
+        "LOGIN": "denes",
+        "EMAIL": "denes@gmail.com",
+        "NEV": "Tömböly Dénes",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "2400 Dunaújváros, Kossuth út 39."
+    },
+    {
+        "LOGIN": "desdemona",
+        "EMAIL": "mor.otto@mail.hu",
+        "NEV": "Mór Ottó",
+        "SZULEV": 1968,
+        "NEM": "F",
+        "CIM": "9200 Mosonmagyaróvár Fő u. 12."
+    },
+    {
+        "LOGIN": "dora3",
+        "EMAIL": "dóra.sarodi@mail.hu",
+        "NEV": "Sarodi Dóra",
+        "SZULEV": 1995,
+        "NEM": "N",
+        "CIM": "2855 Bokod, Fő út 18."
+    },
+    {
+        "LOGIN": "edit",
+        "EMAIL": "edit.bittmann@mail.hu",
+        "NEV": "Bittmann Edit",
+        "SZULEV": 1984,
+        "NEM": "N",
+        "CIM": "6077 Orgovány, Fő utca 60."
+    },
+    {
+        "LOGIN": "emese",
+        "EMAIL": "emese.kuruc@mail.hu",
+        "NEV": "Kuruc Emese",
+        "SZULEV": 1989,
+        "NEM": "N",
+        "CIM": "6700 Szeged, Rákóczi utca 67."
+    },
+    {
+        "LOGIN": "eszter",
+        "EMAIL": "eszter.molnár@mail.hu",
+        "NEV": "Molnár Eszter",
+        "SZULEV": 1987,
+        "NEM": "N",
+        "CIM": "6800 Hódmezővásárhely, Fő út 77."
+    },
+    {
+        "LOGIN": "eszter2",
+        "EMAIL": "eszter.balogh@mail.hu",
+        "NEV": "Balogh Eszter",
+        "SZULEV": 1998,
+        "NEM": "N",
+        "CIM": "6760 Kistelek, Kossuth utca 11."
+    },
+    {
+        "LOGIN": "eszter4",
+        "EMAIL": "eszter.fülöp@mail.hu",
+        "NEV": "Fülöp Eszter",
+        "SZULEV": 1993,
+        "NEM": "N",
+        "CIM": "3643 Dédestapolcsány, Kossuth Lajos utca 47\/b."
+    },
+    {
+        "LOGIN": "ESZTERE",
+        "EMAIL": "eszter.érsek@mail.hu",
+        "NEV": "Érsek Eszter",
+        "SZULEV": 1978,
+        "NEM": "N",
+        "CIM": "6785 Pusztamérges, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "eva",
+        "EMAIL": "eva@gmail.com",
+        "NEV": "Enyedi Éva",
+        "SZULEV": 1967,
+        "NEM": "N",
+        "CIM": "4231 Bököny, Petőfi utca 8."
+    },
+    {
+        "LOGIN": "eva2",
+        "EMAIL": "eva2@gmail.com",
+        "NEV": "Perlinger Éva",
+        "SZULEV": 1971,
+        "NEM": "N",
+        "CIM": "9653 Répcelak, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "EVAV",
+        "EMAIL": "EVAV@gmail.com",
+        "NEV": "Viktor Éva",
+        "SZULEV": 1980,
+        "NEM": "N",
+        "CIM": "6913 Csanádpalota, Arany János utca 3."
+    },
+    {
+        "LOGIN": "ferenc1",
+        "EMAIL": "ferenc.orosz@mail.hu",
+        "NEV": "Orosz Ferenc",
+        "SZULEV": 1983,
+        "NEM": "F",
+        "CIM": "5061 Tiszasüly, Arany János utca 3."
+    },
+    {
+        "LOGIN": "fruzsina4",
+        "EMAIL": "fruzsina4@gmail.com",
+        "NEV": "Frank Fruzsina",
+        "SZULEV": 1996,
+        "NEM": "N",
+        "CIM": "9700 Szombathely, Szabadság utca 95."
+    },
+    {
+        "LOGIN": "gabor1",
+        "EMAIL": "gabor1@gmail.com",
+        "NEV": "Köves Gábor",
+        "SZULEV": 1973,
+        "NEM": "F",
+        "CIM": "6762 Sándorfalva, Árpád utca 23."
+    },
+    {
+        "LOGIN": "gabor4",
+        "EMAIL": "gábor.telek@mail.hu",
+        "NEV": "Telek Gábor",
+        "SZULEV": 1987,
+        "NEM": "F",
+        "CIM": "9071 Görbeháza, Fő út 169."
+    },
+    {
+        "LOGIN": "GABORS",
+        "EMAIL": "GABORS@gmail.com",
+        "NEV": "Szöllősi Gábor",
+        "SZULEV": 1990,
+        "NEM": "F",
+        "CIM": "3630 Putnok, Kossuth utca 27."
+    },
+    {
+        "LOGIN": "gabriella1",
+        "EMAIL": "gabriella1@gmail.com",
+        "NEV": "Nagy Gabriella",
+        "SZULEV": 1982,
+        "NEM": "N",
+        "CIM": "1077 Budapest, Dob utca 1"
+    },
+    {
+        "LOGIN": "gabriella10",
+        "EMAIL": "gabriella10@gmail.com",
+        "NEV": "Vida Gabriella",
+        "SZULEV": 1969,
+        "NEM": "N",
+        "CIM": "2484 Agárd, Arany János utca 3."
+    },
+    {
+        "LOGIN": "georgij",
+        "EMAIL": "georgij.nyíri@mail.hu",
+        "NEV": "Nyíri Georgij",
+        "SZULEV": 1983,
+        "NEM": "F",
+        "CIM": "8391 Sármellék, Grassalkovich út 10."
+    },
+    {
+        "LOGIN": "gusztav",
+        "EMAIL": "gusztav@gmail.com",
+        "NEV": "Bárci Gusztáv",
+        "SZULEV": 1967,
+        "NEM": "F",
+        "CIM": "3643 Dédestapolcsány, Endrődi Sándor utca 47."
+    },
+    {
+        "LOGIN": "GYONGYIK",
+        "EMAIL": "gyöngyi.kornseé@mail.hu",
+        "NEV": "Kornseé Gyöngyi",
+        "SZULEV": 1974,
+        "NEM": "N",
+        "CIM": "8800 Nagykanizsa, Fő út 60."
+    },
+    {
+        "LOGIN": "GYORGYO",
+        "EMAIL": "GYORGYO@gmail.com",
+        "NEV": "Oroszi György",
+        "SZULEV": 1980,
+        "NEM": "F",
+        "CIM": "7220 Sarkad, Dózsa György u. 1."
+    },
+    {
+        "LOGIN": "henrik3",
+        "EMAIL": "henrik.nádudvari@mail.hu",
+        "NEV": "Nádudvari Henrik",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "1077 Budapest, Tanácsköztársaság tér 1."
+    },
+    {
+        "LOGIN": "IBOLYAA",
+        "EMAIL": "ibolya.andor@mail.hu",
+        "NEV": "Andor Ibolya",
+        "SZULEV": 1983,
+        "NEM": "N",
+        "CIM": "9023 Győr, Posta köz 2."
+    },
+    {
+        "LOGIN": "ilona3",
+        "EMAIL": "ilona3@gmail.com",
+        "NEV": "Bosnyák Ilona",
+        "SZULEV": 1990,
+        "NEM": "N",
+        "CIM": "2483 Gárdony, Posta köz 2."
+    },
+    {
+        "LOGIN": "imre",
+        "EMAIL": "imre.búza@mail.hu",
+        "NEV": "Búza Imre",
+        "SZULEV": 1988,
+        "NEM": "F",
+        "CIM": "9181 Kimle, Petőfi Sándor tér 1."
+    },
+    {
+        "LOGIN": "imre1",
+        "EMAIL": "imre.papp@mail.hu",
+        "NEV": "Papp Imre",
+        "SZULEV": 1976,
+        "NEM": "F",
+        "CIM": "1077 Budapest, Szolnoki út 8."
+    },
+    {
+        "LOGIN": "istvan",
+        "EMAIL": "istvan@gmail.com",
+        "NEV": "Soós István",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "2370 Dabas, Kossuth utca 27."
+    },
+    {
+        "LOGIN": "istvan1",
+        "EMAIL": "istván.vizi@mail.hu",
+        "NEV": "Vizi István",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "7086 Ozora, Rákóczi utca 1."
+    },
+    {
+        "LOGIN": "ISTVANV",
+        "EMAIL": "ISTVANV@gmail.com",
+        "NEV": "Varga István",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "6320 Solt, Hősök tere 11."
+    },
+    {
+        "LOGIN": "janos3",
+        "EMAIL": "janos3@gmail.com",
+        "NEV": "Harangozó János",
+        "SZULEV": 1967,
+        "NEM": "F",
+        "CIM": "8700 Marcali, Petőfi Sándor tér 1."
+    },
+    {
+        "LOGIN": "JANOSG",
+        "EMAIL": "JANOSG@gmail.com",
+        "NEV": "Giliga János",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "3300 Eger, Deák Ferenc út 5."
+    },
+    {
+        "LOGIN": "JANOSP",
+        "EMAIL": "JANOSP@gmail.com",
+        "NEV": "Pálinkás János",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "5920 Csorvás, Padragi út 158."
+    },
+    {
+        "LOGIN": "jozsef",
+        "EMAIL": "jozsef@gmail.com",
+        "NEV": "Gergely József",
+        "SZULEV": 1985,
+        "NEM": "F",
+        "CIM": "6050 Lajosmizse, Fő út 18."
+    },
+    {
+        "LOGIN": "jozsef2",
+        "EMAIL": "józsef.vajda@mail.hu",
+        "NEV": "Vajda József",
+        "SZULEV": 1978,
+        "NEM": "F",
+        "CIM": "6700 Szeged, Baracsi László utca 14."
+    },
+    {
+        "LOGIN": "JOZSEFG",
+        "EMAIL": "józsef.gyuris@mail.hu",
+        "NEV": "Gyuris József",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "2660 Balassagyarmat, Petőfi utca 1\/2."
+    },
+    {
+        "LOGIN": "JUDITH",
+        "EMAIL": "JUDITH@gmail.com",
+        "NEV": "Hídasi Judit",
+        "SZULEV": 1997,
+        "NEM": "N",
+        "CIM": "2100 Gödöllő, Fő út 169."
+    },
+    {
+        "LOGIN": "julia",
+        "EMAIL": "julia@gmail.com",
+        "NEV": "Tóth Júlia",
+        "SZULEV": 1993,
+        "NEM": "N",
+        "CIM": "5310 Kisújszállás, Árpád utca 4."
+    },
+    {
+        "LOGIN": "julia4",
+        "EMAIL": "julia4@gmail.com",
+        "NEV": "Nagy Júlia",
+        "SZULEV": 1985,
+        "NEM": "N",
+        "CIM": "7000 Sárbogárd, Jászai tér 21."
+    },
+    {
+        "LOGIN": "julianna4",
+        "EMAIL": "julianna4@gmail.com",
+        "NEV": "Szabó Julianna",
+        "SZULEV": 1990,
+        "NEM": "N",
+        "CIM": "6700 Szeged, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "kanita12",
+        "EMAIL": "anita.kiss12@gmail.com",
+        "NEV": "Kiss Anita",
+        "SZULEV": 1975,
+        "NEM": "N",
+        "CIM": "2230 Gyömrő Fő tér 3."
+    },
+    {
+        "LOGIN": "kata",
+        "EMAIL": "katalin.gondos@mail.hu",
+        "NEV": "Gondos Katalin",
+        "SZULEV": 1968,
+        "NEM": "N",
+        "CIM": "8237 Tihany, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "katalin",
+        "EMAIL": "katalin.horváth@mail.hu",
+        "NEV": "Horváth Katalin",
+        "SZULEV": 1968,
+        "NEM": "N",
+        "CIM": "2424 Előszállás, Rákóczi út 200."
+    },
+    {
+        "LOGIN": "katalin4",
+        "EMAIL": "katalin4@gmail.com",
+        "NEV": "Kertész Katalin",
+        "SZULEV": 1986,
+        "NEM": "N",
+        "CIM": "2800 Tatabánya, Búvár utca 4."
+    },
+    {
+        "LOGIN": "kati",
+        "EMAIL": "katalin.zatykó@mail.hu",
+        "NEV": "Zatykó Katalin",
+        "SZULEV": 1995,
+        "NEM": "N",
+        "CIM": "7511 Ötvöskónyi, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "katka",
+        "EMAIL": "katalin.kovács@mail.hu",
+        "NEV": "Kovács Katalin",
+        "SZULEV": 1975,
+        "NEM": "N",
+        "CIM": "8254 Kővágóörs, Petőfi utca 22."
+    },
+    {
+        "LOGIN": "klaudia2",
+        "EMAIL": "klaudia.bakó@mail.hu",
+        "NEV": "Bakó Klaudia",
+        "SZULEV": 1982,
+        "NEM": "N",
+        "CIM": "8254 Kővágóörs, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "kornel4",
+        "EMAIL": "kornél.lukács@mail.hu",
+        "NEV": "Lukács Kornél",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "2053 Herceghalom, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "kristof4",
+        "EMAIL": "kristof4@gmail.com",
+        "NEV": "Poprádi Kristóf",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "8220 Balatonalmádi, Mészáros utca 7."
+    },
+    {
+        "LOGIN": "kriszti",
+        "EMAIL": "kriszti@gmail.com",
+        "NEV": "Horváth Krisztina",
+        "SZULEV": 1978,
+        "NEM": "N",
+        "CIM": "6060 Tiszakécske, Árpád utca 4."
+    },
+    {
+        "LOGIN": "krisztian4",
+        "EMAIL": "krisztián.czérna@mail.hu",
+        "NEV": "Czérna Krisztián",
+        "SZULEV": 1970,
+        "NEM": "F",
+        "CIM": "1107 Budapest, Dózsa György utca 37."
+    },
+    {
+        "LOGIN": "KRISZTIANM",
+        "EMAIL": "KRISZTIANM@gmail.com",
+        "NEV": "Mogyródi Krisztián",
+        "SZULEV": 1968,
+        "NEM": "F",
+        "CIM": "9155 Lébény, Jászai tér 21."
+    },
+    {
+        "LOGIN": "krisztina",
+        "EMAIL": "krisztina@gmail.com",
+        "NEV": "Szedlár Krisztina",
+        "SZULEV": 1979,
+        "NEM": "N",
+        "CIM": "6646 Tömörkény, Arany János utca 1."
+    },
+    {
+        "LOGIN": "krisztina1",
+        "EMAIL": "krisztina.bori@mail.hu",
+        "NEV": "Bori Krisztina",
+        "SZULEV": 1969,
+        "NEM": "N",
+        "CIM": "2115 Vácszentlászló, Fő utca 47."
+    },
+    {
+        "LOGIN": "KRISZTINAG",
+        "EMAIL": "KRISZTINAG@gmail.com",
+        "NEV": "Gyárfás Krisztina",
+        "SZULEV": 1987,
+        "NEM": "N",
+        "CIM": "6762 Sándorfalva, Arany János utca 1."
+    },
+    {
+        "LOGIN": "lajos",
+        "EMAIL": "lajos.kiss@mail.hu",
+        "NEV": "Kiss Lajos",
+        "SZULEV": 1978,
+        "NEM": "F",
+        "CIM": "1077 Budapest, Dob utca 1"
+    },
+    {
+        "LOGIN": "lala",
+        "EMAIL": "lajos.nagymihály@mail.hu",
+        "NEV": "Nagymihály Lajos",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "8638 Balatonlelle, Rákóczi út 200."
+    },
+    {
+        "LOGIN": "laszlo1",
+        "EMAIL": "lászló.farkas@mail.hu",
+        "NEV": "Farkas László",
+        "SZULEV": 1967,
+        "NEM": "F",
+        "CIM": "5200 Törökszentmiklós, Rendeki utca 21."
+    },
+    {
+        "LOGIN": "laszlo2",
+        "EMAIL": "lászló.móra@mail.hu",
+        "NEV": "Móra László",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "9970 Szentgotthárd, Petőfi utca 1\/2."
+    },
+    {
+        "LOGIN": "LASZLOA",
+        "EMAIL": "lászló.antal@mail.hu",
+        "NEV": "Antal László",
+        "SZULEV": 1969,
+        "NEM": "F",
+        "CIM": "2484 Agárd, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "LASZLON",
+        "EMAIL": "lászló.nagy@mail.hu",
+        "NEV": "Nagy László",
+        "SZULEV": 1969,
+        "NEM": "F",
+        "CIM": "1173 Budapest, Jászai tér 21."
+    },
+    {
+        "LOGIN": "maria1",
+        "EMAIL": "mária.baráth@mail.hu",
+        "NEV": "Baráth Mária",
+        "SZULEV": 1995,
+        "NEM": "N",
+        "CIM": "1047 Budapest, Posta köz 2."
+    },
+    {
+        "LOGIN": "mark",
+        "EMAIL": "márk.kispál@mail.hu",
+        "NEV": "Kispál Márk",
+        "SZULEV": 1996,
+        "NEM": "F",
+        "CIM": "1086 Budapest, Juhászföldi út 1."
+    },
+    {
+        "LOGIN": "MARKH",
+        "EMAIL": "márk.horváth@mail.hu",
+        "NEV": "Horváth Márk",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "4400 Nyíregyháza, Badacsonyi utca 12."
+    },
+    {
+        "LOGIN": "marton",
+        "EMAIL": "marton@gmail.com",
+        "NEV": "Kalacsi Márton",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "5137 Jászkisér, Fő út 169."
+    },
+    {
+        "LOGIN": "MATEK",
+        "EMAIL": "máté.koza@mail.hu",
+        "NEV": "Koza Máté",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "1011 Budapest, Központi telep 3."
+    },
+    {
+        "LOGIN": "matyas2",
+        "EMAIL": "matyas2@gmail.com",
+        "NEV": "Botka Mátyás",
+        "SZULEV": 1972,
+        "NEM": "F",
+        "CIM": "2700 Cegléd, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "MATYASS",
+        "EMAIL": "mátyás.szilágyi@mail.hu",
+        "NEV": "Szilágyi Mátyás",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "9023 Győr, Kossuth Lajos utca 6."
+    },
+    {
+        "LOGIN": "melissza",
+        "EMAIL": "nagy_peter@indamail.hu",
+        "NEV": "Nagy Péter",
+        "SZULEV": 1998,
+        "NEM": "F",
+        "CIM": "6800 Hódmezővásárhely, Oldalkosát u. 1."
+    },
+    {
+        "LOGIN": "MIHALYJ",
+        "EMAIL": "mihály.juhász@mail.hu",
+        "NEV": "Juhász Mihály",
+        "SZULEV": 1979,
+        "NEM": "F",
+        "CIM": "6786 Ruzsa, Rákóczi utca 1."
+    },
+    {
+        "LOGIN": "miklos2",
+        "EMAIL": "miklos2@gmail.com",
+        "NEV": "Gondos Miklós",
+        "SZULEV": 1995,
+        "NEM": "F",
+        "CIM": "2100 Gödöllő, Árpád utca 23."
+    },
+    {
+        "LOGIN": "MIKLOSB",
+        "EMAIL": "miklós.balla@mail.hu",
+        "NEV": "Balla Miklós",
+        "SZULEV": 1979,
+        "NEM": "F",
+        "CIM": "4060 Balmazújváros, Szent István utca 2."
+    },
+    {
+        "LOGIN": "MONIKAM",
+        "EMAIL": "mónika.mohos@mail.hu",
+        "NEV": "Mohos Mónika",
+        "SZULEV": 1974,
+        "NEM": "N",
+        "CIM": "2241 Sülysáp, Baracsi László utca 14."
+    },
+    {
+        "LOGIN": "NANDORF",
+        "EMAIL": "nándor.fő@mail.hu",
+        "NEV": "Fő Nándor",
+        "SZULEV": 1968,
+        "NEM": "F",
+        "CIM": "5920 Csorvás, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "nikolett3",
+        "EMAIL": "nikolett3@gmail.com",
+        "NEV": "Horváth Nikolett",
+        "SZULEV": 1981,
+        "NEM": "N",
+        "CIM": "1072 Budapest, Arany János utca 1."
+    },
+    {
+        "LOGIN": "nikoletta4",
+        "EMAIL": "nikoletta4@gmail.com",
+        "NEV": "Kő Nikoletta",
+        "SZULEV": 1972,
+        "NEM": "N",
+        "CIM": "5537 Zsadány, Fő út 18."
+    },
+    {
+        "LOGIN": "NIKOLETTAT",
+        "EMAIL": "nikoletta.tatár@mail.hu",
+        "NEV": "Tatár Nikoletta",
+        "SZULEV": 1997,
+        "NEM": "N",
+        "CIM": "1067 Budapest, Győri utca 12."
+    },
+    {
+        "LOGIN": "norbert",
+        "EMAIL": "norbert@gmail.com",
+        "NEV": "Szűcs Norbert",
+        "SZULEV": 1969,
+        "NEM": "F",
+        "CIM": "5071 Besenyszög, Győri utca 12."
+    },
+    {
+        "LOGIN": "norbert2",
+        "EMAIL": "norbert.hegedűs@mail.hu",
+        "NEV": "Hegedűs Norbert",
+        "SZULEV": 1991,
+        "NEM": "F",
+        "CIM": "2081 Piliscsaba, Rendeki utca 21."
+    },
+    {
+        "LOGIN": "norbert4",
+        "EMAIL": "norbert4@gmail.com",
+        "NEV": "Mile Norbert",
+        "SZULEV": 1983,
+        "NEM": "F",
+        "CIM": "3973 Cigánd, Bajcsy-Zsilinszky utca 4."
+    },
+    {
+        "LOGIN": "norbert5",
+        "EMAIL": "norbert5@gmail.com",
+        "NEV": "Béres Norbert",
+        "SZULEV": 1975,
+        "NEM": "F",
+        "CIM": "8640 Fonyód, Bajcsy-Zsilinszky utca 4."
+    },
+    {
+        "LOGIN": "pal",
+        "EMAIL": "pál.barabás@mail.hu",
+        "NEV": "Barabás Pál",
+        "SZULEV": 1968,
+        "NEM": "F",
+        "CIM": "1183 Budapest, Szolnoki út 8."
+    },
+    {
+        "LOGIN": "peter1",
+        "EMAIL": "peter1@gmail.com",
+        "NEV": "Kozma Péter",
+        "SZULEV": 1976,
+        "NEM": "F",
+        "CIM": "6913 Csanádpalota, Központi telep 3."
+    },
+    {
+        "LOGIN": "peter2",
+        "EMAIL": "peter2@gmail.com",
+        "NEV": "Bozsó Péter",
+        "SZULEV": 1976,
+        "NEM": "F",
+        "CIM": "4800 Vásárosnamény, Zombori út 2\/A"
+    },
+    {
+        "LOGIN": "peter3",
+        "EMAIL": "peter3@gmail.com",
+        "NEV": "Szalai Péter",
+        "SZULEV": 1983,
+        "NEM": "F",
+        "CIM": "1155 Budapest, Arany János utca 3."
+    },
+    {
+        "LOGIN": "peter4",
+        "EMAIL": "péter.bíró@mail.hu",
+        "NEV": "Bíró Péter",
+        "SZULEV": 1985,
+        "NEM": "F",
+        "CIM": "5137 Jászkisér, Rákóczi utca 67."
+    },
+    {
+        "LOGIN": "PETERB",
+        "EMAIL": "péter.berendi@mail.hu",
+        "NEV": "Berendi Péter",
+        "SZULEV": 1969,
+        "NEM": "F",
+        "CIM": "3980 Sátoraljaújhely, Vasút utca 4\/10."
+    },
+    {
+        "LOGIN": "polla",
+        "EMAIL": "polla@gmail.com",
+        "NEV": "Palágyi Polla",
+        "SZULEV": 1994,
+        "NEM": "N",
+        "CIM": "2484 Agárd, Fő út 18."
+    },
+    {
+        "LOGIN": "rajmond4",
+        "EMAIL": "rajmond.rácz@mail.hu",
+        "NEV": "Rácz Rajmond",
+        "SZULEV": 1993,
+        "NEM": "F",
+        "CIM": "9155 Lébény, Petőfi utca 1\/2."
+    },
+    {
+        "LOGIN": "reka4",
+        "EMAIL": "réka.szikszai@mail.hu",
+        "NEV": "Szikszai Réka",
+        "SZULEV": 1969,
+        "NEM": "N",
+        "CIM": "8254 Kővágóörs, Templom utca 73."
+    },
+    {
+        "LOGIN": "RENATAK",
+        "EMAIL": "renáta.kardos@mail.hu",
+        "NEV": "Kardos Renáta",
+        "SZULEV": 1988,
+        "NEM": "N",
+        "CIM": "7086 Ozora, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "RENATAS",
+        "EMAIL": "RENATAS@gmail.com",
+        "NEV": "Szirmai Renáta",
+        "SZULEV": 1991,
+        "NEM": "N",
+        "CIM": "2053 Herceghalom, Kossuth utca 27."
+    },
+    {
+        "LOGIN": "robert2",
+        "EMAIL": "robert2@gmail.com",
+        "NEV": "Patay Róbert",
+        "SZULEV": 1977,
+        "NEM": "F",
+        "CIM": "2370 Dabas, Rákóczi utca 21."
+    },
+    {
+        "LOGIN": "ROBERTI",
+        "EMAIL": "róbert.iván@mail.hu",
+        "NEV": "Iván Róbert",
+        "SZULEV": 1967,
+        "NEM": "F",
+        "CIM": "2377 Örkény, Petőfi Sándor utca 3."
+    },
+    {
+        "LOGIN": "ROBERTP",
+        "EMAIL": "ROBERTP@gmail.com",
+        "NEV": "Pásztor Róbert",
+        "SZULEV": 1972,
+        "NEM": "F",
+        "CIM": "5137 Jászkisér, Ady Endre út 27."
+    },
+    {
+        "LOGIN": "roland",
+        "EMAIL": "roland@gmail.com",
+        "NEV": "Tóth Roland",
+        "SZULEV": 1968,
+        "NEM": "F",
+        "CIM": "2000 Szentendre, Fő út 169."
+    },
+    {
+        "LOGIN": "roland1",
+        "EMAIL": "roland.ferencz@mail.hu",
+        "NEV": "Ferencz Roland",
+        "SZULEV": 1985,
+        "NEM": "F",
+        "CIM": "2424 Előszállás, Fő út 169."
+    },
+    {
+        "LOGIN": "roza2",
+        "EMAIL": "roza2@gmail.com",
+        "NEV": "Bucskó Róza",
+        "SZULEV": 1988,
+        "NEM": "N",
+        "CIM": "5661 Újkígyós, Arany János utca 3."
+    },
+    {
+        "LOGIN": "sandor",
+        "EMAIL": "sandor@gmail.com",
+        "NEV": "Karasz Sándor",
+        "SZULEV": 1970,
+        "NEM": "F",
+        "CIM": "8283 Káptalantóti, Kossuth Lajos utca 1\/a."
+    },
+    {
+        "LOGIN": "sandor3",
+        "EMAIL": "sándor.farkas@mail.hu",
+        "NEV": "Farkas Sándor",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "8640 Fonyód, Tanácsköztársaság tér 1."
+    },
+    {
+        "LOGIN": "sandor4",
+        "EMAIL": "sandor4@gmail.com",
+        "NEV": "Nagy Sándor",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "4600 Kisvárda, Fő utca 47."
+    },
+    {
+        "LOGIN": "sara",
+        "EMAIL": "sára.farkas@mail.hu",
+        "NEV": "Farkas Sára",
+        "SZULEV": 1973,
+        "NEM": "N",
+        "CIM": "5940 Tótkomlós, Felszabadulás utca 32."
+    },
+    {
+        "LOGIN": "SEBASTIANF",
+        "EMAIL": "SEBASTIANF@gmail.com",
+        "NEV": "Foltényi Sebastián",
+        "SZULEV": 1992,
+        "NEM": "F",
+        "CIM": "7960 Sellye, Grassalkovich út 10."
+    },
+    {
+        "LOGIN": "sebestyen",
+        "EMAIL": "sebestyen@gmail.com",
+        "NEV": "Rab Sebestyén",
+        "SZULEV": 1992,
+        "NEM": "F",
+        "CIM": "7130 Tolna, Központi telep 3."
+    },
+    {
+        "LOGIN": "szabolcs",
+        "EMAIL": "szabolcs.bodor@mail.hu",
+        "NEV": "Bodor Szabolcs",
+        "SZULEV": 1990,
+        "NEM": "F",
+        "CIM": "6786 Ruzsa, Ady Endre út 27."
+    },
+    {
+        "LOGIN": "SZABOLCSM",
+        "EMAIL": "szabolcs.miklós@mail.hu",
+        "NEV": "Miklós Szabolcs",
+        "SZULEV": 1980,
+        "NEM": "F",
+        "CIM": "1102 Budapest, Fő út 169."
+    },
+    {
+        "LOGIN": "SZILARDS",
+        "EMAIL": "szilárd.szalai@mail.hu",
+        "NEV": "Szalai Szilárd",
+        "SZULEV": 1967,
+        "NEM": "F",
+        "CIM": "1077 Budapest, Fő út 18."
+    },
+    {
+        "LOGIN": "szilvia1",
+        "EMAIL": "szilvia.tari@mail.hu",
+        "NEV": "Tari Szilvia",
+        "SZULEV": 1971,
+        "NEM": "N",
+        "CIM": "6080 Szabadszállás, Bécsi utca 82."
+    },
+    {
+        "LOGIN": "tamara2",
+        "EMAIL": "tamara.miklós@mail.hu",
+        "NEV": "Miklós Tamara",
+        "SZULEV": 1980,
+        "NEM": "N",
+        "CIM": "3910 Tokaj, Kossuth út 39."
+    },
+    {
+        "LOGIN": "tamas",
+        "EMAIL": "tamás.antal@mail.hu",
+        "NEV": "Antal Tamás",
+        "SZULEV": 1984,
+        "NEM": "F",
+        "CIM": "4440 Tiszavasvári, Posta köz 2."
+    },
+    {
+        "LOGIN": "TAMASF",
+        "EMAIL": "TAMASF@gmail.com",
+        "NEV": "Fényes Tamás",
+        "SZULEV": 1997,
+        "NEM": "F",
+        "CIM": "9023 Győr, Arany János utca 1."
+    },
+    {
+        "LOGIN": "tibor",
+        "EMAIL": "tibor.gombos@mail.hu",
+        "NEV": "Gombos Tibor",
+        "SZULEV": 1993,
+        "NEM": "F",
+        "CIM": "7100 Szekszárd, Kossuth utca 77."
+    },
+    {
+        "LOGIN": "tibor2",
+        "EMAIL": "tibor2@gmail.com",
+        "NEV": "Dániel Tibor",
+        "SZULEV": 1985,
+        "NEM": "F",
+        "CIM": "6646 Tömörkény, Árpád utca 23."
+    },
+    {
+        "LOGIN": "tihamer",
+        "EMAIL": "tihamér.kazy@mail.hu",
+        "NEV": "Kazy Tihamér",
+        "SZULEV": 1991,
+        "NEM": "F",
+        "CIM": "2370 Dabas, Fő utca 60."
+    },
+    {
+        "LOGIN": "timea",
+        "EMAIL": "timea@gmail.com",
+        "NEV": "Papós Tímea",
+        "SZULEV": 1996,
+        "NEM": "N",
+        "CIM": "1035 Budapest,  Kossuth út 77."
+    },
+    {
+        "LOGIN": "timea2",
+        "EMAIL": "tímea.dusha@mail.hu",
+        "NEV": "Dusha Tímea",
+        "SZULEV": 1975,
+        "NEM": "N",
+        "CIM": "5920 Csorvás, Kossuth utca 8."
+    },
+    {
+        "LOGIN": "tunde",
+        "EMAIL": "tunde@gmail.com",
+        "NEV": "Turcsik Tünde",
+        "SZULEV": 1974,
+        "NEM": "N",
+        "CIM": "7130 Tolna, Fő út 122."
+    },
+    {
+        "LOGIN": "valentin",
+        "EMAIL": "valentin.feró@mail.hu",
+        "NEV": "Feró Valentin",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "3895 Gönc, Búvár utca 4."
+    },
+    {
+        "LOGIN": "veronika4",
+        "EMAIL": "veronika4@gmail.com",
+        "NEV": "Tankó Veronika",
+        "SZULEV": 1983,
+        "NEM": "N",
+        "CIM": "6412 Balotaszállás, Rendeki utca 21."
+    },
+    {
+        "LOGIN": "VIKTORIAU",
+        "EMAIL": "viktoria.urbán@mail.hu",
+        "NEV": "Urbán Viktoria",
+        "SZULEV": 1996,
+        "NEM": "N",
+        "CIM": "3860 Encs, Népboltsor  2."
+    },
+    {
+        "LOGIN": "VIKTORK",
+        "EMAIL": "viktor.keresztúri@mail.hu",
+        "NEV": "Keresztúri Viktor",
+        "SZULEV": 1989,
+        "NEM": "F",
+        "CIM": "2532 Tokodaltáró, Nagy Lajos tér 4."
+    },
+    {
+        "LOGIN": "vivien3",
+        "EMAIL": "vivien3@gmail.com",
+        "NEV": "Boros Vivien",
+        "SZULEV": 1991,
+        "NEM": "N",
+        "CIM": "2117 Isaszeg, Fő út 122."
+    },
+    {
+        "LOGIN": "zoltan",
+        "EMAIL": "zoltán.fodor@mail.hu",
+        "NEV": "Fodor Zoltán",
+        "SZULEV": 1979,
+        "NEM": "F",
+        "CIM": "3441 Mezőkeresztes, Fő utca 23."
+    },
+    {
+        "LOGIN": "zoltan4",
+        "EMAIL": "zoltan4@gmail.com",
+        "NEV": "Barna Zoltán",
+        "SZULEV": 1986,
+        "NEM": "F",
+        "CIM": "8313 Balatongyörök, Jászai tér 21."
+    },
+    {
+        "LOGIN": "ZOLTANP",
+        "EMAIL": "zoltán.pintér@mail.hu",
+        "NEV": "Pintér Zoltán",
+        "SZULEV": 1977,
+        "NEM": "F",
+        "CIM": "6050 Lajosmizse, Fő út 18."
+    },
+    {
+        "LOGIN": "ZOLTANT",
+        "EMAIL": "zoltán.tóth@mail.hu",
+        "NEV": "Tóth Zoltán",
+        "SZULEV": 1985,
+        "NEM": "F",
+        "CIM": "4244 Újfehértó, Posta köz 2."
+    },
+    {
+        "LOGIN": "zsofi1",
+        "EMAIL": "zsofi1@gmail.com",
+        "NEV": "Molnár Zsófi",
+        "SZULEV": 1983,
+        "NEM": "N",
+        "CIM": "2730 Albertirsa, Árpád utca 23."
+    },
+    {
+        "LOGIN": "zsolt1",
+        "EMAIL": "zsolt.pulai@mail.hu",
+        "NEV": "Pulai Zsolt",
+        "SZULEV": 1988,
+        "NEM": "F",
+        "CIM": "8391 Sármellék, Fő utca 60."
+    },
+    {
+        "LOGIN": "ZSOLTJ",
+        "EMAIL": "ZSOLTJ@gmail.com",
+        "NEV": "Józsa Zsolt",
+        "SZULEV": 1983,
+        "NEM": "F",
+        "CIM": "8315 Gyenesdiás, Bajcsy-Zsilinszky utca 4."
+    },
+    {
+        "LOGIN": "zsuzsa",
+        "EMAIL": "zsuzsanna@gmail.com",
+        "NEV": "Pusztai Zsuzsanna",
+        "SZULEV": 1980,
+        "NEM": "N",
+        "CIM": "6783 Ásotthalom, Badacsonyi utca 12."
+    },
+    {
+        "LOGIN": "zsuzsa3",
+        "EMAIL": "zsuzsa.varsányi@mail.hu",
+        "NEV": "Varsányi Zsuzsa",
+        "SZULEV": 1979,
+        "NEM": "N",
+        "CIM": "8600 Siófok, Árpád utca 4."
+    },
+    {
+        "LOGIN": "zsuzsanna",
+        "EMAIL": "zsuzsanna.barta@mail.hu",
+        "NEV": "Barta Zsuzsanna",
+        "SZULEV": 1994,
+        "NEM": "N",
+        "CIM": "4172 Biharnagybajom, Dózsa György utca 37."
+    },
+    {
+        "LOGIN": "ZSUZSAV",
+        "EMAIL": "zsuzsa.vajda@mail.hu",
+        "NEV": "Vajda Zsuzsa",
+        "SZULEV": 1976,
+        "NEM": "N",
+        "CIM": "6786 Ruzsa, Kossuth utca 77."
+    }
+]
